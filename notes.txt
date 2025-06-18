@@ -1,0 +1,55 @@
+C#, .NET, .NET Core (multi platform)
+
+C# version => 13
+.NET => 9.0
+
+.NET 8.0 C# 12 (framework)
+
+library (package, System.Data.SqlClient)
+SDK (.NET SDK)
+Framework (routing, middleware, model binding, compression, authentication, authorization)
+pure language => boiler code
+
+Git
+1. Console App
+2. Window Form
+3. SQL basics
+4. Web Application Development (.NET MVC) => HTML, CSS, JS BS
+5. API Development
+
+Installation
+
+Visual Studio => https://visualstudio.microsoft.com/vs/preview/
+.NET 8 SDK => https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.411-windows-x64-installer
+SQL Server => https://www.microsoft.com/en-us/download/details.aspx?id=101064
+SSMS => https://learn.microsoft.com/en-us/ssms/install/install
+API Dog => https://apidog.com/?utm_source=google_search&utm_medium=g&utm_campaign=21950794503&utm_content=174276878794&utm_term=postman&gad_source=1&gad_campaignid=21950794503&gbraid=0AAAAA-gKXrAkWNKJ1SpNXzTWJ9jOcz9OH&gclid=CjwKCAjwx8nCBhAwEiwA_z__04T_NxZswflr3U545hpdLy028x1JBy8_m9LaqFdXm_CVuwonzQINKBoCwSgQAvD_BwE
+Git Bash => https://git-scm.com/downloads
+
+CLI (Command Line Interface)
+
+GUI (Graphical User Interface)
+
+MMKTDotNetCore
+
+static, non static
+
+static => static
+non static => static, non static
+void => no return
+
+int, string, bool, float, decimal, long, short, byte, object, list, dictionary, queue, stack, linkedlist, array
+
+naming conventions
+
+camelCase (variables, userName, firstName, lastName, fullName)
+PascalCase (file name, CreateCustomer, UpdateCustomer, DeleteCustomer)
+lower_snake_case (user_name, first_name, last_name)
+UPPER_SNAKE_CASE (constants, MERCHANT_NAME, USRE_NAME)
+
+RUN => F5 (Fn)
+STOP => Shift + F5
+Comment => Ctrl + K + C, Ctrl + /
+Un-Comment => Ctrl + K + U, Ctrl + /
+
+Git => Version Control
