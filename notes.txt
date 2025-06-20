@@ -53,3 +53,10 @@ Comment => Ctrl + K + C, Ctrl + /
 Un-Comment => Ctrl + K + U, Ctrl + /
 
 Git => Version Control
+
+Day 2
+
+string default value => null or empty.
+int default value => 0
+bool default value => false
+object default value => null

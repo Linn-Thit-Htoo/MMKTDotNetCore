@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.35906.104 d17.14
+VisualStudioVersion = 17.14.35906.104
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMKTDotNetCore.ConsoleAppDay1", "MMKTDotNetCore.ConsoleAppDay1\MMKTDotNetCore.ConsoleAppDay1.csproj", "{1CA3A201-D5B1-4FE1-8202-BBCA0509308F}"
 EndProject
@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "documents", "documents", "{
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{673F39DC-35B5-41E2-A7C6-79F993F2F074}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMKTDotNetCore.ConsoleAppDay2", "MMKTDotNetCore.ConsoleAppDay2\MMKTDotNetCore.ConsoleAppDay2.csproj", "{CD9437D3-1B2A-4D29-876A-5350B1CD35CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -22,12 +24,17 @@ Global
 		{1CA3A201-D5B1-4FE1-8202-BBCA0509308F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CA3A201-D5B1-4FE1-8202-BBCA0509308F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CA3A201-D5B1-4FE1-8202-BBCA0509308F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD9437D3-1B2A-4D29-876A-5350B1CD35CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD9437D3-1B2A-4D29-876A-5350B1CD35CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD9437D3-1B2A-4D29-876A-5350B1CD35CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD9437D3-1B2A-4D29-876A-5350B1CD35CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{1CA3A201-D5B1-4FE1-8202-BBCA0509308F} = {673F39DC-35B5-41E2-A7C6-79F993F2F074}
+		{CD9437D3-1B2A-4D29-876A-5350B1CD35CF} = {673F39DC-35B5-41E2-A7C6-79F993F2F074}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A1B75782-43D6-44EB-B338-F7967107785F}
